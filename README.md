@@ -4,4 +4,4 @@ A simple resourcepack which fixes missing and/or incorrect lang entries in other
 
 **Supported Mods**
 - Aether Additions (Only on CurseForge.)
-- No Tree Punching (Only affects the 1.12 version, which is not on Modrinth sadly.)
+- No Tree Punching (Only affects the 1.12 version, only on CurseForge.)
