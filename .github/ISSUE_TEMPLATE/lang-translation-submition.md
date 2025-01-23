@@ -1,6 +1,6 @@
 ---
 name: Lang Translation Submition
-about: Create a report to help us improve
+about: Submit a translated lang file.
 title: ''
 labels: Translation Submition
 assignees: MagmaBro123

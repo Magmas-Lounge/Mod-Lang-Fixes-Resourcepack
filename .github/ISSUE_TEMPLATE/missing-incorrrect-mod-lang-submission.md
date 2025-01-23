@@ -2,7 +2,7 @@
 name: Missing/Incorrrect Mod Lang Submission
 about: Submit a report about missing and/or incorrect lang in a mod.
 title: ''
-labels: Missing/Incorrrect Mod Lang Submission
+labels: ''
 assignees: MagmaBro123
 
 ---
