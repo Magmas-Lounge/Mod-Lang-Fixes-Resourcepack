@@ -7,6 +7,9 @@ assignees: MagmaBro123
 
 ---
 
+**What items and/or blocks were translated?**
+Provide your answer here.
+
 **Provide Translated Lang File**
 Delete this text and upload your translated Lang file here.
 
