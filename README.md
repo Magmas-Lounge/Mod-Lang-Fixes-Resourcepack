@@ -9,4 +9,4 @@ A simple resourcepack which fixes missing and/or incorrect lang entries in other
 - The Aether
 - Minecraft (Some Vanilla items.)
 
-**(Lang means a .lang file, which is what defines the names of items and blocks shown when hovering over them in your inventory or via WAILA.)**
+**(A .lang file is what defines the names of items and blocks shown when hovering over them in your inventory or via WAILA.)**
