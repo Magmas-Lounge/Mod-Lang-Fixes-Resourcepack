@@ -1,5 +1,7 @@
 # Mod Lang Fixes Resourcepack
 
+**PLEASE NOTE:** I am very well aware that these issues can be fixed via CraftTweaker scripts. However, this is meant for those who want a drop-in way of doing things, and do not want to fiddle around.
+
 A simple resourcepack which fixes missing and/or incorrect lang entries in other mods.
 
 **Supported Mods**
@@ -9,4 +11,4 @@ A simple resourcepack which fixes missing and/or incorrect lang entries in other
 - The Aether
 - Minecraft (Some Vanilla items.)
 
-**(A .lang file is what defines the names of items and blocks shown when hovering over them in your inventory or via WAILA.)**
+**(For those wondering, a .lang file is what defines the names of items and blocks shown when hovering over them in your inventory or via WAILA.)**
